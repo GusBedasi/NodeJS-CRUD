@@ -12,7 +12,11 @@ NodeJS | ReactJS | SQLITE3
 
 Use o NPM ou YARN para a instalação, todos as dependências que estão no arquivo packet  .json serão instalados:
 ```nodejs
-npm install 
+cd server 
+npm install
+
+cd web
+npm install
 ```
 
 ## Usage
