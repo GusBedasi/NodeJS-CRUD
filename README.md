@@ -1,4 +1,4 @@
-# Teste FAAP
+# NODEJS-CURD 
 
 Teste consiste básicamente em duas telas, uma de cadastro e uma de listagem de items cadastrados, contando também com validações dos campos inseridos.
 
